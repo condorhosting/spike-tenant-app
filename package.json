@@ -1,0 +1,11 @@
+{
+  "name": "@condor/tenant-app",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Reference Condor tenant app — JSON hello + live Neon Postgres query. Mirrored to condorhosting/spike-tenant-app.",
+  "main": "src/index.mjs",
+  "dependencies": {
+    "@neondatabase/serverless": "^0.10.4"
+  }
+}

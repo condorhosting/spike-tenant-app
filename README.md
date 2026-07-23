@@ -12,3 +12,5 @@ This is the app the Phase 0 spike pushes → builds → deploys into the
 `condor-tenants` Workers-for-Platforms dispatch namespace.
 
 Deployed by `condorhosting/platform` → `services/deployer`.
+
+<!-- phase0 webhook trigger 2026-07-23T15:17:00Z -->
